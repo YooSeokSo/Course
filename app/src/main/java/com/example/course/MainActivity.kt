@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     lee sang yoon
+    seo yoo seok
 }
